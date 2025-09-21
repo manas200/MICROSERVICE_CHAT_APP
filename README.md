@@ -422,9 +422,9 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@manas200](https://github.com/manas200)
+- LinkedIn: [Manas Chaturvedi](https://www.linkedin.com/in/manas-chaturvedi-a38229190/)
+- Email: manasc2009@gmail.com
 
 ---
 
@@ -435,7 +435,6 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 - [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
 - [MongoDB](https://mongodb.com/) for the flexible database
 - [Cloudinary](https://cloudinary.com/) for image management
-- [Stream.io](https://getstream.io/) for video calling capabilities
 
 ---
 
@@ -454,3 +453,4 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
   <h3>⭐ Star this repo if you found it helpful!</h3>
   <p>Made with ❤️ and lots of ☕</p>
 </div>
+
