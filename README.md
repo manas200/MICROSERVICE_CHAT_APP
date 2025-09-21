@@ -48,9 +48,6 @@
 - ✨ Smooth animations with Framer Motion
 - 🖼️ Image upload with preview and optimization
 
-### 🎥 **Video Calling** *(Integrated)*
-- 📹 Stream.io Video SDK integration
-- 🔊 Real-time video/audio communication
 
 ---
 
@@ -179,7 +176,6 @@ graph TB
 - **HTTP Client**: Axios
 - **Authentication**: JWT + js-cookie
 - **Animations**: Framer Motion
-- **Video**: Stream.io Video SDK
 
 ### **Backend Services**
 - **Runtime**: Node.js with TypeScript (ES Modules)
@@ -453,4 +449,5 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
   <h3>⭐ Star this repo if you found it helpful!</h3>
   <p>Made with ❤️ and lots of ☕</p>
 </div>
+
 
