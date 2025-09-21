@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>A modern, real-time chat application built with microservices architecture</h3>
-  <p>Featuring real-time messaging, emoji reactions, file sharing, video calling, and secure email-based authentication</p>
+  <p>Featuring real-time messaging, emoji reactions, file sharing, and secure email-based authentication</p>
 </div>
 
 ---
@@ -449,5 +449,6 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
   <h3>⭐ Star this repo if you found it helpful!</h3>
   <p>Made with ❤️ and lots of ☕</p>
 </div>
+
 
 
